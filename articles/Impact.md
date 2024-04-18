@@ -153,7 +153,7 @@ Open-source AI coding assistants contribute through direct usage and influence t
 - **Educational Resources**: Many open-source projects are valuable educational tools, helping new developers understand AI and machine learning concepts through hands-on practice.
 - **Catalysts for Academic Research**: Universities and research institutions often leverage open-source tools for cutting-edge research, further driving innovation in AI technologies.
 
-![Final Thoughts](https://pbs.twimg.com/media/GLaArbVWIAAUvF0.jpeg)
+![Final Thoughts](img/GLaArbVWIAAUvF0.jpeg)
 
 ## Conclusion
 
