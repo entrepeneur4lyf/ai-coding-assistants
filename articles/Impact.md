@@ -22,7 +22,7 @@ AI coding assistants can be broadly categorized into several types:
 - **Amazon CodeGuru**: A machine learning service for automated code reviews and performance recommendations, helping developers to optimize software applications efficiently.
 - **Tabnine**: An AI-powered code completion tool that supports multiple programming languages and integrates with various IDEs.
 
-[https://pbs.twimg.com/media/GLZ_c0gXkAAXqgQ?format=jpg&name=small](https://pbs.twimg.com/media/GLZ_c0gXkAAXqgQ?format=jpg&name=small)
+![Coding Tools](img/GLZ_c0gXkAAXqgQ.jpeg)
 
 ## Impact on the Software Development Cycle
 
@@ -51,7 +51,7 @@ AI's role in automated testing is growing, with tools designed to generate tests
 
 AI coding assistants contribute to continuous integration and deployment processes in deployment and maintenance by automating routine checks and tasks. They can also help monitor the system post-deployment to detect issues like performance bottlenecks or failures, suggesting remediations. However, their effectiveness is limited by the specificity of the data they have been trained on and their ability to adapt to unique or unexpected problems.
 
-[https://pbs.twimg.com/media/GLaA6JfWgAA3wn2?format=jpg&name=small](https://pbs.twimg.com/media/GLaA6JfWgAA3wn2?format=jpg&name=small)
+![Learning](img/GLaA6JfWgAA3wn2.jpeg)
 
 ## Impact on Software Development Learning
 
@@ -85,7 +85,7 @@ Despite the benefits, there are significant challenges in relying solely on AI f
 - **Quality of Learning**: When AI does a significant portion of the problem-solving, there's concern about the depth of understanding and retention.
 - **Outdated or Inaccurate Suggestions**: As previously noted, AI coding assistants may generate suggestions based on outdated or incorrect coding practices, potentially teaching learners bad habits.
 
-[https://pbs.twimg.com/media/GLZ_8QvXYAEku6t?format=jpg&name=small](https://pbs.twimg.com/media/GLZ_8QvXYAEku6t?format=jpg&name=small)
+![Case Stdies](img/GLZ_8QvXYAEku6t.jpeg)
 
 ## Case Studies: AI Coding Assistants in Action
 
@@ -126,7 +126,7 @@ To better understand the impact of AI coding assistants on software development 
 - **Rapid Skill Acquisition**: Developers were able to quickly familiarize themselves with new programming environments and languages, enhancing their adaptability.
 - **Quality Concerns**: The HR department noted that while developers were learning faster, the depth of understanding and code quality varied significantly, prompting additional training sessions.
 
-[https://pbs.twimg.com/media/GLaARIrWkAEd7du?format=jpg&name=small](https://pbs.twimg.com/media/GLaARIrWkAEd7du?format=jpg&name=small)
+![Open Source](img/GLaARIrWkAEd7du.jpeg)
 
 ## The Impact of Open Source AI Coding Assistants
 
@@ -153,7 +153,7 @@ Open-source AI coding assistants contribute through direct usage and influence t
 - **Educational Resources**: Many open-source projects are valuable educational tools, helping new developers understand AI and machine learning concepts through hands-on practice.
 - **Catalysts for Academic Research**: Universities and research institutions often leverage open-source tools for cutting-edge research, further driving innovation in AI technologies.
 
-[https://pbs.twimg.com/media/GLaArbVWIAAUvF0?format=jpg&name=small](https://pbs.twimg.com/media/GLaArbVWIAAUvF0?format=jpg&name=small)
+![Final Thoughts](https://pbs.twimg.com/media/GLaArbVWIAAUvF0.jpeg)
 
 ## Conclusion
 
